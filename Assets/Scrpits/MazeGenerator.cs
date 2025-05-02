@@ -59,7 +59,7 @@ public class MazeGenerator : MonoBehaviour
         return list;
     }
 
-
+    [Obsolete]
     private void MakeMaze()
     {
         List<Vector2> unvisited = new List<Vector2>();

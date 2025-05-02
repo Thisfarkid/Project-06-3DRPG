@@ -65,7 +65,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5962a05e096e96f4bbf4501fe5218104, type: 2}
+  - {fileID: 2100000, guid: 0c6d8fcfc3079104fa10e4786f75f1e2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -162,4 +162,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: febdb39a9a8eb0a43b2e2acf5c2db8db, type: 2}
+    - {fileID: 11400000, guid: 00c5a25ffcbc2fa4f8afe422701e62b6, type: 2}
